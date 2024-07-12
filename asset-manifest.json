@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/phoenix-motors/static/css/main.a16734d6.css",
+    "main.js": "/phoenix-motors/static/js/main.51bb6d71.js",
+    "static/js/453.314e39ab.chunk.js": "/phoenix-motors/static/js/453.314e39ab.chunk.js",
+    "static/media/luxury1.jpeg": "/phoenix-motors/static/media/luxury1.1f7537dcc929f6a3e4da.jpeg",
+    "static/media/car7.jpeg": "/phoenix-motors/static/media/car7.50df74e0276bfebd7d75.jpeg",
+    "static/media/car1.jpeg": "/phoenix-motors/static/media/car1.253ab1e0d91bd8a22cca.jpeg",
+    "static/media/luxury6.jpeg": "/phoenix-motors/static/media/luxury6.78d9e944df5cc1aee56d.jpeg",
+    "static/media/car5.jpeg": "/phoenix-motors/static/media/car5.fc89ee41ba4026674432.jpeg",
+    "static/media/luxury2.jpeg": "/phoenix-motors/static/media/luxury2.a08cb1f947b88c52156f.jpeg",
+    "static/media/luxury5.jpeg": "/phoenix-motors/static/media/luxury5.5c104c2ac5d2e85b9d0a.jpeg",
+    "index.html": "/phoenix-motors/index.html",
+    "main.a16734d6.css.map": "/phoenix-motors/static/css/main.a16734d6.css.map",
+    "main.51bb6d71.js.map": "/phoenix-motors/static/js/main.51bb6d71.js.map",
+    "453.314e39ab.chunk.js.map": "/phoenix-motors/static/js/453.314e39ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a16734d6.css",
+    "static/js/main.51bb6d71.js"
+  ]
+}
